@@ -1,0 +1,5 @@
+Variable – es lugar adonde guardar información. La información puede cambiar de acuerdo al input que le damos.
+Strings – es un conjunto de información o palabras que no cumplen una función, solo estar desplegadas allí. Van entre comillas. Se puede poner cualquier cosa entre las comillas y se imprimirá o devolverá exactamente como esta escrito dentro de las comillas.
+Return – es el resultado de una función. Es lo que escupe una función cuando la hacemos correr. 
+If – es una función condicional que hace que se cumpla una función SI el condicional fue aceptado.
+Booleano – es un valor que es verdadero o falso. Uno o el otro. No hay grises. Es o no es. Si la condición se da, ES, si no se da, NO ES. Solo acepta esos dos parámetros.  
