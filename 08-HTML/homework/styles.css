@@ -1,13 +1,27 @@
-#thirdDiv{
-    height: 600;
-    width: 500;
-    background-color: pink; 
-    border-style: groove; padding: 50px; 
-    border-color: blue; 
-    border-width: 30px          
+.divClass {
+  color: blue;
 }
 
-#spanId{
-    font-size: 18px; 
-    margin: 50;
+#thirdDiv {
+  height: 600;
+  width: 500;
+  background-color: pink;
+  border-style: groove;
+  padding: 50px;
+  border-color: blue;
+  border-width: 30px;
+}
+
+#spanId {
+  font-size: 18px;
+  margin: 50;
+  color: red;
+}
+
+h1 {
+  color: purple;
+}
+
+img {
+  width: 400px;
 }
